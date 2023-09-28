@@ -1,0 +1,78 @@
+{
+    "andar_1": {
+        "ENDERECO_01": {
+            "gpio": 22,
+            "type": "out"
+        },
+        "ENDERECO_02": {
+            "gpio": 26,
+            "type": "out"
+        },
+        "ENDERECO_03": {
+            "gpio": 19,
+            "type": "out"
+        },
+        "SENSOR_DE_VAGA": {
+            "gpio": 18,
+            "type": "in"
+        },
+        "SINAL_DE_LOTADO_FECHADO": {
+            "gpio": 27,
+            "type": "out"
+        },
+        "SENSOR_ABERTURA_CANCELA_ENTRADA": {
+            "gpio": 23,
+            "type": "in"
+        },
+        "SENSOR_FECHAMENTO_CANCELA_ENTRADA": {
+            "gpio": 24,
+            "type": "in"
+        },
+        "MOTOR_CANCELA_ENTRADA": {
+            "gpio": 10,
+            "type": "out"
+        },
+        "SENSOR_ABERTURA_CANCELA_SAIDA": {
+            "gpio": 25,
+            "type": "in"
+        },
+        "SENSOR_FECHAMENTO_CANCELA_SAIDA": {
+            "gpio": 12,
+            "type": "in"
+        },
+        "MOTOR_CANCELA_SAIDA": {
+            "gpio": 17,
+            "type": "out"
+        }
+    },
+    "andar_2": {
+        "ENDERECO_01": {
+            "gpio": 13,
+            "type": "out"
+        },
+        "ENDERECO_02": {
+            "gpio": 6,
+            "type": "out"
+        },
+        "ENDERECO_03": {
+            "gpio": 5,
+            "type": "out"
+        },
+        "SENSOR_DE_VAGA": {
+            "gpio": 20,
+            "type": "in"
+        },
+        "SINAL_DE_LOTADO_FECHADO": {
+            "gpio": 8,
+            "type": "out"
+        },
+        "SENSOR_DE_PASSAGEM_1": {
+            "gpio": 16,
+            "type": "in"
+        },
+        "SENSOR_DE_PASSAGEM_2": {
+            "gpio": 21,
+            "type": "in"
+        }
+    }
+}

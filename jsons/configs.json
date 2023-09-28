@@ -1,0 +1,5 @@
+{
+    "ip_socket_central": "127.0.0.1",
+    "porta_socket": 10391,
+    "nome_arquivo_estacionamento": "estacionamento_1_2_3.json"
+}
